@@ -1,0 +1,37 @@
+﻿@* Page 2 Definition
+   Each field entry line uses a HTML label element to display the label and 
+   a Model varaiable from the Person class for entering the value.
+ *@
+
+@{
+    Layout = null;
+}
+
+@model Anderson_Robert.Models.Person
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+    <h1>Hello World from Page2</h1>
+    <br />
+    @Html.LabelFor(model => model.PersonFirstName) @Model.PersonFirstName
+    <br />
+    @Html.LabelFor(model => model.PersonLastName) @Model.PersonLastName
+    <br />
+    @Html.LabelFor(model => model.PersonEmail) @Model.PersonEmail
+    <br />
+    @Html.LabelFor(model => model.PersonPhone) @Model.PersonPhone
+    <br />
+    @Html.LabelFor(model => model.PersonAddress) @Model.PersonAddress
+    <br />
+    @Html.LabelFor(model => model.PersonUserName) @Model.PersonUserName
+    <br />
+    @Html.LabelFor(model => model.PersonPassword) @Model.PersonPassword
+    <br />
+</body>
+</html>
+
+
