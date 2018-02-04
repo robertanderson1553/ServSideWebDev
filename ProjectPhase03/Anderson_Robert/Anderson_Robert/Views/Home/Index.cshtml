@@ -1,0 +1,46 @@
+﻿@* Index page Definition
+   Each field display line uses a HTML label element to display the label and
+   a Model varaiable from the Person class to display the value. The submit
+   button uses the form method to determine the necessary action to perform and 
+   asp-action to determine the page to update.
+ *@
+
+@{
+    Layout = null;
+}
+
+@model Anderson_Robert.Models.Person
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+
+<body>
+    <h1>Hello World from the index</h1>
+    <br />
+
+    <form asp-action="Page2" method="post">
+
+        @Html.LabelFor(model => model.PersonFirstName) <input asp-for="PersonFirstName" />
+        <br />
+        @Html.LabelFor(model => model.PersonLastName) <input asp-for="PersonLastName" />
+        <br />
+        @Html.LabelFor(model => model.PersonEmail) <input asp-for="PersonEmail" />
+        <br />
+        @Html.LabelFor(model => model.PersonPhone) <input asp-for="PersonPhone" />
+        <br />
+        @Html.LabelFor(model => model.PersonAddress) <input asp-for="PersonAddress" />
+        <br />
+        @Html.LabelFor(model => model.PersonUserName) <input asp-for="PersonUserName" />
+        <br />
+        @Html.LabelFor(model => model.PersonPassword) <input asp-for="PersonPassword" />
+        <br />
+        <button type="submit">Submit</button>
+
+    </form>
+</body>
+
+</html>
+
