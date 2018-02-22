@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model Anderson_Robert.Models.Person
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditPerson</title>
+</head>
+<body>
+    <h1>I am the EditPerson</h1>
+
+    <form asp-action="UpdatePerson" method="post">
+
+        @Html.LabelFor(model => model.PersonFirstName) <input asp-for="PersonFirstName" value="@Model.PersonFirstName" />
+        <br />
+        @Html.LabelFor(model => model.PersonLastName) <input asp-for="PersonLastName" value="@Model.PersonLastName" />
+        <br />
+        @Html.LabelFor(model => model.PersonEmail) <input asp-for="PersonEmail" value="@Model.PersonEmail" />
+        <br />
+        @Html.LabelFor(model => model.PersonPhone) <input asp-for="PersonPhone" value="@Model.PersonPhone" />
+        <br />
+        @Html.LabelFor(model => model.PersonAddress) <input asp-for="PersonAddress" value="@Model.PersonAddress" />
+        <br />
+        @Html.LabelFor(model => model.PersonUserName) <input asp-for="PersonUserName" value="@Model.PersonUserName" />
+        <br />
+        @Html.LabelFor(model => model.PersonPassword) <input asp-for="PersonPassword" value="@Model.PersonPassword" />
+        <br />
+        <button type="submit">Submit</button>
+
+    </form>
+
+</body>
+</html>

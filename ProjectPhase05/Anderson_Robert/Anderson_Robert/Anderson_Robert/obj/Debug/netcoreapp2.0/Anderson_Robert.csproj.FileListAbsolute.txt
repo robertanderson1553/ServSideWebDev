@@ -1,0 +1,55 @@
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.deps.json
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.json
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.dev.json
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.dll
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfoInputs.cache
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfo.cs
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.pdb
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.dll
+C:\Users\Anderson\Dropbox\Documents\BC Web Dev DotNet\PROG 123 Server Side Web Development\Assignment1\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.deps.json
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.json
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.dev.json
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csprojResolveAssemblyReference.cache
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csproj.CoreCompileInputs.cache
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfoInputs.cache
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfo.cs
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment2\Anderson_Robert\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.deps.json
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.json
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.dev.json
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csprojResolveAssemblyReference.cache
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csproj.CoreCompileInputs.cache
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfoInputs.cache
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfo.cs
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment2B\Anderson_Robert-2\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.deps.json
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.json
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.dev.json
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.pdb
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csprojResolveAssemblyReference.cache
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csproj.CoreCompileInputs.cache
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfoInputs.cache
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfo.cs
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.dll
+E:\BCWebDev\Prog123\Assignment3\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.pdb
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.deps.json
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.json
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.runtimeconfig.dev.json
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.dll
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\bin\Debug\netcoreapp2.0\Anderson_Robert.pdb
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfoInputs.cache
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.AssemblyInfo.cs
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.dll
+C:\Users\Anderson\source\repos\Prog123\ProjectPhase05\Anderson_Robert\Anderson_Robert\obj\Debug\netcoreapp2.0\Anderson_Robert.pdb
